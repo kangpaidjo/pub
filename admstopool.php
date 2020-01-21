@@ -7,7 +7,7 @@ $db_host = "127.0.0.1";
 $db_port = 83306;
 $db_name = "adms_db";
 $db_user = "root";
-$db_password = "";
+$db_password = "password"; # or empty
 
 $api_pool_endpoint = "http://192.168.20.223/to_pool_api.php";
 $api_username = "user";
